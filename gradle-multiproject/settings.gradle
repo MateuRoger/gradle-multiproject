@@ -1,3 +1,4 @@
 rootProject.name = 'gradle-multiproject'
 include 'MainJavaProject'
+include 'JavaAuxiliaryProjec'
 
